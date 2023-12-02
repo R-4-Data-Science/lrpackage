@@ -3,6 +3,8 @@
 
 **Authors**: Yingshan Qiu, Shakiru Oluwasanjo Oyeniran, Sk Nafiz Rahaman
 
+**To open the help document, please write `?beta_ls` in the consol**
+
 ## Defining the package
 
 ``` r
